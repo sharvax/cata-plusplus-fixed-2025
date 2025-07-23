@@ -42,6 +42,6 @@ This mod contains only data and creative content, not code. It follows the licen
 
 ---
 
-**Maintenance & fixes by** [YourNameHere](https://www.reddit.com/u/YourRedditName)  
+**Maintenance & fixes by** Sharvax
 **Original mod by** [Noctifer-de-Mortem](https://github.com/Noctifer-de-Mortem)
 **Thanks to ChatGPT** for assistance in debugging and updating.
